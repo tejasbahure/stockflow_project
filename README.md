@@ -1,5 +1,5 @@
 StockFlow Inventory Management System: Solution Document
-Submission Instructions (Excerpt)
+Submission Instructions
 1. Create a document with your responses to all three parts
 2. Include reasoning for each decision you made
 3. List assumptions you had to make due to incomplete requirements
